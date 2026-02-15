@@ -1,0 +1,7 @@
+This tells the server which libraries to install. Open your VS Code terminal and run:
+
+flask
+requests
+flasgger
+yfinance
+gunicorn

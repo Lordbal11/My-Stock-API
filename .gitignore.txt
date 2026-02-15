@@ -1,0 +1,21 @@
+This prevents "junk" files or sensitive data from being uploaded to GitHub.
+
+
+# Python bytecode (The biggest speed killer)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments (Thousands of tiny files)
+venv/
+env/
+ENV/
+
+# System and IDE files
+.vscode/
+.DS_Store
+AppData/
+
+# Sensitive data
+.env
